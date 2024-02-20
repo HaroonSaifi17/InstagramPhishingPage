@@ -28,4 +28,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 For any questions or issues, please open an issue in the GitHub repository.
 
 ## Authors
-- [Your Name](https://github.com/HaroonSaifi17)
+- [Haroon Saifi](https://github.com/HaroonSaifi17)
